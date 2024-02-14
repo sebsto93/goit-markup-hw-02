@@ -1,25 +1,24 @@
 .hero-image {
-    background-color:#2e2f42;
-    height: 600px;
-    width: 1440px;
+  background-color: #2e2f42;
+  width: 600px;
 }
 h1 {
-    color:white
+  color: white;
 }
 .blue-button {
-    background-color: #4d5ae5; 
-    color: white; 
+  background-color: #4d5ae5;
+  color: white;
 }
 .blue-button:focus {
-    color: red;
+  color: red;
 }
 .blue-button:hover {
-    color: red;
+  color: red;
 }
 
 .fokus:hover {
-    color: red;             
+  color: red;
 }
 .fokus:focus {
-    color: black;
+  color: black;
 }
