@@ -1,0 +1,60 @@
+.logo_style {
+  font-family: Raleway, sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color:#4d5ae5;
+}
+
+.logo_style > span {
+  color:#2e2f42;
+}
+
+.studio_styl {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+   }
+.studio_style:focus {
+  color:#404bbf;
+}
+.studio_style:hover{
+  color:#404bbf;
+}
+.hero-image {
+  background-color: #2e2f42;
+  width: 600px;
+}
+h1 {
+  color: white;
+}
+.blue-button {
+  background-color: #4d5ae5;
+  color: white;
+}
+.blue-button:focus {
+  color: red;
+}
+.blue-button:hover {
+  color: red;
+}
+
+.fokus:hover {
+  color: red;
+}
+.fokus:focus {
+  color: black;
+}
+
+body {
+  color: #434455;
+  font-family: Raleway, Roboto, sans-serif;
+  background-color:#FFFFFF;
+}
+
+.stopka {
+  background-color:#2e2f42
+}
